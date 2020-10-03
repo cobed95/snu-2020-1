@@ -1,0 +1,9 @@
+{
+  "id": "8e5e991a-fa15-4e9b-b899-ec78b79edd23",
+  "name": "positive-things",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

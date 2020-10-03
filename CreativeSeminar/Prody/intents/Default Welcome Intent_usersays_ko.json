@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c59212f2-c798-462b-8000-0ee508a36a6e",
+    "data": [
+      {
+        "text": "인녕",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": false
+      },
+      {
+        "text": "히세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9002a8c5-814c-43ed-bec4-eb629db423a1",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "02c99d84-c93c-4dce-9629-a27360f26427",
+    "data": [
+      {
+        "text": "오랜만이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9365a8e5-6a60-418b-ad9f-b7bfcc57c1c3",
+    "data": [
+      {
+        "text": "저기",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29cbcbd9-accb-45b7-9fd9-c6f320de17a6",
+    "data": [
+      {
+        "text": "잘 있었어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "463173f5-13a5-4240-aca2-511191456ab7",
+    "data": [
+      {
+        "text": "반가워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbff6cc-2378-407e-90f9-e0791c937bf7",
+    "data": [
+      {
+        "text": "오랜만",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dff0c3b-2094-454c-9961-741ecacb5026",
+    "data": [
+      {
+        "text": "어떻게 지냈어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "244d0956-a614-400c-bf56-03a02191f3dd",
+    "data": [
+      {
+        "text": "잘 지냈니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24abad9a-064c-4c54-b2a9-2d4c7e3aa286",
+    "data": [
+      {
+        "text": "오늘 어때",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

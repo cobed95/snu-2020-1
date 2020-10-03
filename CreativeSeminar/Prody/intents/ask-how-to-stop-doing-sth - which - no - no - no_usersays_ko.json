@@ -1,0 +1,122 @@
+[
+  {
+    "id": "6e63a46e-56ee-435d-ac84-83e4a75b6707",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "208e6dd0-e9cc-4a02-ad44-5b9da3c829d8",
+    "data": [
+      {
+        "text": "없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ac39605-6f82-475c-b839-3cf69b8a6e1c",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "a7232315-48a2-4dee-8259-15ce62bf76f2",
+    "data": [
+      {
+        "text": "고맙지만 됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "72c9c990-e47a-4865-bcb3-61fde5213e1d",
+    "data": [
+      {
+        "text": "그건 아니지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "690b25d3-2e8b-459c-bdb2-ddf5405b52b2",
+    "data": [
+      {
+        "text": "절대 아니야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52abcb2d-01db-468e-9042-952acf2d49ed",
+    "data": [
+      {
+        "text": "관심 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "bc992c48-697f-44db-bac7-b6e6dc50e871",
+    "data": [
+      {
+        "text": "아닌 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89506eef-fc1c-48d6-997a-298536fcf242",
+    "data": [
+      {
+        "text": "하지 마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77ef4362-4b47-441d-ada6-394312f5397d",
+    "data": [
+      {
+        "text": "내 생각은 달라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "e62ee6e3-56bb-4050-b048-64e5e3537267",
+  "parentId": "f964b3d8-c3bc-4f5b-8105-d9f9a8a9ad92",
+  "rootParentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "name": "helplessness - no - no",
+  "auto": true,
+  "contexts": [
+    "helplessness-1-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helplessness-1.helplessness-1-no.helplessness-1-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "난 해야되는 걸 하기 싫을 때 산책하는 것이 도움이 됐는데... 산책도 싫다면 잠시 쉬었다가 다시 나를 찾아줘. 잠깐의 휴식도 나쁘지 않다고 생각해."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

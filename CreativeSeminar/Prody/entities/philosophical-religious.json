@@ -1,0 +1,9 @@
+{
+  "id": "3e473ad6-76f5-4e44-9453-d71b2623bc97",
+  "name": "philosophical-religious",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

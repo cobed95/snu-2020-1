@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0c96bdd6-eca2-4eaa-811c-f5f6659b8c44",
+    "data": [
+      {
+        "text": "미안",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c6efe2c-a7ea-491f-a715-f81306205577",
+    "data": [
+      {
+        "text": "미안 농담이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe35f3b3-aa3a-4bbd-9093-58d67d512c59",
+    "data": [
+      {
+        "text": "미안해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00ee23b7-4cb1-474e-b641-aef5d3948994",
+    "data": [
+      {
+        "text": "미안해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a660f0-e079-4b45-9321-6cff242584dc",
+    "data": [
+      {
+        "text": "죄송해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9171dfde-4487-4ef0-9781-2984c7d56b1b",
+    "data": [
+      {
+        "text": "죄송합니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

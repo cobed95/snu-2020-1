@@ -1,0 +1,42 @@
+{
+  "id": "71d86136-ddf1-4f17-8ce8-169f7d5ec8cb",
+  "parentId": "f964b3d8-c3bc-4f5b-8105-d9f9a8a9ad92",
+  "rootParentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "name": "helplessness - no - yes",
+  "auto": true,
+  "contexts": [
+    "helplessness-1-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helplessness-1.helplessness-1-no.helplessness-1-no-yes",
+      "affectedContexts": [
+        {
+          "name": "helplessness-1-no-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "좋아. 그럼 다녀와서 뭐라도 시작해보자! 그래도 힘들면 다시 나를 찾아줘!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

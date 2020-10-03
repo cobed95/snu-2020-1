@@ -1,0 +1,60 @@
+{
+  "id": "f0e889b2-d85e-4703-ae67-2b9524af9dba",
+  "name": "want-to-do-sth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "neutral-things",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "92f96df9-8ed1-40eb-80ce-651620011a14",
+          "required": false,
+          "dataType": "@neutral-things",
+          "name": "neutral-things",
+          "value": "$neutral-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "74b548e9-c465-4577-934c-5d83f9440bad",
+          "required": false,
+          "dataType": "@relationship",
+          "name": "relationship",
+          "value": "$relationship",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "$neutral-things 잠깐 하는 건 괜찮아. 지금 하고 다시 중요한 일들을 해볼까?",
+            "$relationship 하기 위해서 잘 보이고자 한다면 사람들이 뭘 좋아하는지 부터 알아봐야해."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

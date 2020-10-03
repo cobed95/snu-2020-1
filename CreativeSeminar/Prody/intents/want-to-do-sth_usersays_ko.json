@@ -1,0 +1,92 @@
+[
+  {
+    "id": "8a0f3639-d1c9-4617-a5d7-731baaf4df34",
+    "data": [
+      {
+        "text": "페이커가 되고싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "8a68c23a-7ea5-400b-bc26-58079736d634",
+    "data": [
+      {
+        "text": "연애",
+        "alias": "relationship",
+        "meta": "@relationship",
+        "userDefined": true
+      },
+      {
+        "text": " 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f3829a5a-02f9-48f9-9a7b-cf3f308a4bcb",
+    "data": [
+      {
+        "text": "사랑",
+        "alias": "relationship",
+        "meta": "@relationship",
+        "userDefined": false
+      },
+      {
+        "text": " 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ee54e738-f501-41ce-8162-fd4dee1c6363",
+    "data": [
+      {
+        "text": "게임",
+        "alias": "neutral-things",
+        "meta": "@neutral-things",
+        "userDefined": false
+      },
+      {
+        "text": " 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b70488f6-404b-4fe9-b9f4-6fef8fd3ca58",
+    "data": [
+      {
+        "text": "하고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c214fbee-826a-4dfe-ac4c-310459e22ee8",
+    "data": [
+      {
+        "text": "하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "52cdbc16-f2a4-4d40-b975-de44a9510126",
+  "parentId": "e53f5c90-6737-457d-9556-327b75958139",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - which - no - no - alternative",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-which-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-custom.ask-how-to-stop-doing-sth-which-no.ask-how-to-stop-doing-sth-which-no-no.ask-how-to-stop-doing-sth-which-no-no-custom",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-which-no-no-alternative-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ff040fc6-9b55-4379-b1a0-c5c9ce5cb367",
+          "required": false,
+          "dataType": "@sports",
+          "name": "sports",
+          "value": "$sports",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "$sports 좋아하는구나. 그럼 $sports 하고 올래?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

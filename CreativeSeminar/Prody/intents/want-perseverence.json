@@ -1,0 +1,45 @@
+{
+  "id": "86305a94-01f3-455f-99f5-9915211775b7",
+  "name": "want-perseverence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "answer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c194aed-cb88-4e04-84cf-fef0527349cc",
+          "required": false,
+          "dataType": "@positive-things",
+          "name": "positive-things",
+          "value": "$positive-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "$positive-things를 꾸준히 하기 위해선 습관을 들이는 것이 중요해. 지금부터 시작해볼까?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

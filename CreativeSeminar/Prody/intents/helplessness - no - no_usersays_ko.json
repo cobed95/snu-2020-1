@@ -1,0 +1,227 @@
+[
+  {
+    "id": "79b3c462-9f3f-439b-8f6d-c09d9766f6c5",
+    "data": [
+      {
+        "text": "싫어!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b772196-f697-4545-b54d-045596cd731d",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a4aea084-73fe-4238-a6b0-49ee5ffd0e00",
+    "data": [
+      {
+        "text": "산책 존나 좋아하네",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e86b38eb-0d59-4440-b804-d21a47db7ebe",
+    "data": [
+      {
+        "text": "산책은 무슨 산책이야 ㅠ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37126e41-4d36-428c-8f06-0cc628475f16",
+    "data": [
+      {
+        "text": "무슨 산책이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70e5329c-07f6-4817-a54a-de6793d3a515",
+    "data": [
+      {
+        "text": "무슨 맨날 산책이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "858284a1-364b-4d9f-bf0f-7a5dd8f00b5d",
+    "data": [
+      {
+        "text": "말도 안되는 ",
+        "userDefined": false
+      },
+      {
+        "text": "소리",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "하지마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcb26b87-1b37-4564-9e79-6fee867068af",
+    "data": [
+      {
+        "text": "뭐래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f5a4f0d-56ea-4d7a-af28-0200cb2cd2ae",
+    "data": [
+      {
+        "text": "맨날 산책이래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56de5f29-6cec-4098-94f7-09f0f331e5e6",
+    "data": [
+      {
+        "text": "넌 산책 밖에 몰라?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98055355-3389-40b9-a334-039e35c900e1",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "0970c766-9dfb-4103-bda8-0976d3628ea5",
+    "data": [
+      {
+        "text": "고맙지만 됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "aac6c54a-5ffe-4068-a132-6879a5f4a365",
+    "data": [
+      {
+        "text": "그건 아니지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "524fc37d-9ebc-4be4-92d0-91a44af4d62d",
+    "data": [
+      {
+        "text": "절대 아니야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f690d7e-e4c2-4deb-a642-28dbed84892a",
+    "data": [
+      {
+        "text": "관심 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "c84bf44e-8730-453d-911e-f1cc6024c472",
+    "data": [
+      {
+        "text": "아닌 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66d45c70-0512-41bb-8e06-61ed00dcf2e1",
+    "data": [
+      {
+        "text": "하지 마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dacd75e5-10d8-402b-a254-68e4c248b3e7",
+    "data": [
+      {
+        "text": "내 생각은 달라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

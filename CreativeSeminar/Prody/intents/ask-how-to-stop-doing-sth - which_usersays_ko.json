@@ -1,0 +1,359 @@
+[
+  {
+    "id": "f08d5c4a-29eb-4897-a3ec-9485f7cbcafd",
+    "data": [
+      {
+        "text": "무슨 운동",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fccee5fb-12d7-4f7b-b8b8-e93683c8f568",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a556097c-d760-4b46-a9b6-9cb320e2580a",
+    "data": [
+      {
+        "text": "어떤 운동",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "346f4e18-3ac6-44ef-b96e-869170731d32",
+    "data": [
+      {
+        "text": "어떤 운동이 좋을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "973e69b6-1078-4622-a181-f57afc029da6",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "86ff0462-619e-4ebb-b49a-116f2613b880",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7d4d5200-3b37-4651-9da7-d8f7b8e33adc",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 좋을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6a23fa4f-5f01-4c1c-b338-6038348815e5",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": " 할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "626cd2c1-e387-457f-bc46-f7847842a37b",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "325dbcf3-14c7-46a3-9d26-d14766dfdb08",
+    "data": [
+      {
+        "text": "알겠어 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d8c796-ae9e-43b2-9eec-e2529e2b14ae",
+    "data": [
+      {
+        "text": "알겠어. 그런데 뭐하지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0bf3e6e-ccbb-40f5-99c6-afdf5bcc20e5",
+    "data": [
+      {
+        "text": "알겠어",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". 그런데 무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좋지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62af2709-783c-4a15-b55a-43f8fdd5c917",
+    "data": [
+      {
+        "text": "추천",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae04ca3d-21d3-4f83-a77f-4f7b30b0ec50",
+    "data": [
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c24aaf0e-2d94-4f59-aed9-eff22046b993",
+    "data": [
+      {
+        "text": "뭐 할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebfe8015-8d5d-4dad-b996-089a2997c550",
+    "data": [
+      {
+        "text": "뭘로 하지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8155201-1b05-44be-a148-60f0786735fc",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좋지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa7029d4-5f05-411d-bd0c-0bc125256096",
+    "data": [
+      {
+        "text": "흠 무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좋을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

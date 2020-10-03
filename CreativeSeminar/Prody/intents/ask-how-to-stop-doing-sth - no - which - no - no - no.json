@@ -1,0 +1,36 @@
+{
+  "id": "16b76070-6cd3-4a64-8289-6ec50dc167da",
+  "parentId": "c5e2c0c9-b2ac-4539-9a7b-c136f1597f68",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - no - which - no - no - no",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-no-which-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-no.ask-how-to-stop-doing-sth-no-custom.ask-how-to-stop-doing-sth-no-which-no.ask-how-to-stop-doing-sth-no-which-no-no.ask-how-to-stop-doing-sth-no-which-no-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "좋아하는 운동이 없구나. 그럼 혹시 지금 나와 이렇게 얘기하며 딴 짓할 생각이 조금 줄어들었을지도 몰라. 나도 친구와 길게 얘기하다보면 다시 집중하는데 도움이 된 적이 많거든. 다시 집중해보고 그래도 안되면 다시 나를 찾아줘!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

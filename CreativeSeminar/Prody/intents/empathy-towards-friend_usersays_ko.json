@@ -1,0 +1,135 @@
+[
+  {
+    "id": "079009fa-3009-4eea-899c-5a4a7b48175b",
+    "data": [
+      {
+        "text": "입만 살아있고 행동은 하지않는 ",
+        "userDefined": false
+      },
+      {
+        "text": "친구",
+        "alias": "relationship",
+        "meta": "@relationship",
+        "userDefined": false
+      },
+      {
+        "text": "가 있는데, 어떻게 조언해줘야할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b396559d-de92-4a79-9fe5-06d90e1abe5b",
+    "data": [
+      {
+        "text": "조언할 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23a63261-e6cf-40d4-b8b6-88f9df2361d0",
+    "data": [
+      {
+        "text": "조언해줘야할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b826b062-9e13-4847-9c63-8afd12bf2d6f",
+    "data": [
+      {
+        "text": "어떻게 도울까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6cdc66b-e377-4751-9da2-39ee73f3f49c",
+    "data": [
+      {
+        "text": "어떻게 돕지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bdd02cc-60df-4668-a8a2-f147d86454d4",
+    "data": [
+      {
+        "text": "돕고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52c662bf-b6eb-4578-9978-4b8ac8e7ff22",
+    "data": [
+      {
+        "text": "조언해주고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d8a0196-a82a-4473-924b-f5bbefc50dce",
+    "data": [
+      {
+        "text": "친구",
+        "alias": "relationship",
+        "meta": "@relationship",
+        "userDefined": false
+      },
+      {
+        "text": "에게 조언",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51e0b57a-4d55-4e2c-9900-dd1c56f98b97",
+    "data": [
+      {
+        "text": "뭐라고 조언해줄까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

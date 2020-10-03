@@ -1,0 +1,9 @@
+{
+  "id": "6e6be36c-9029-4c1a-900f-553026a6e1d1",
+  "name": "bad-food",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

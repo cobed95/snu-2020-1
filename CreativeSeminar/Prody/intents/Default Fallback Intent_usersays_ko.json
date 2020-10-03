@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4472be5b-a8cd-4575-a0d3-1168234fcb3e",
+    "data": [
+      {
+        "text": "딴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "324cd257-e6c9-40a9-8e43-cf2c72761f2b",
+    "data": [
+      {
+        "text": "hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e960027-7d8d-4a3a-bab3-29a7f163f9a5",
+    "data": [
+      {
+        "text": "can you speak english",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "545f5986-8424-42c0-b48c-69969c085b18",
+    "data": [
+      {
+        "text": "공부",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "da3a30ec-8821-445b-ac3b-665333e838c9",
+    "data": [
+      {
+        "text": "공부 이기고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3099c9c8-0b80-468c-b313-5b9ab7d9d2bf",
+    "data": [
+      {
+        "text": "게",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

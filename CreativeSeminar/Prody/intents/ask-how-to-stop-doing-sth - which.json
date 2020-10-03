@@ -1,0 +1,67 @@
+{
+  "id": "ed07f8cc-9d25-45fc-9d22-eed3c813ce33",
+  "parentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - which",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-custom",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-which-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "64987a78-e791-4ee0-92a6-c6f56f26ea57",
+          "required": false,
+          "dataType": "@positive-things",
+          "name": "positive-things",
+          "value": "$positive-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "58c39af3-5690-4547-8ec8-eda32c872a63",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "가벼운 산책도 좋을 것 같아."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

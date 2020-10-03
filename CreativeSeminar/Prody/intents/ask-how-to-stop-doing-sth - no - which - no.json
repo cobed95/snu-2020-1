@@ -1,0 +1,42 @@
+{
+  "id": "31dc687d-a963-47e2-9e23-d84c7c18a098",
+  "parentId": "eafcf193-61d7-47d9-8934-8d6fdf237d61",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - no - which - no",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-no-which-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-no.ask-how-to-stop-doing-sth-no-custom.ask-how-to-stop-doing-sth-no-which-no",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-no-which-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "그렇다면 자전거 타기는 어떨까?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

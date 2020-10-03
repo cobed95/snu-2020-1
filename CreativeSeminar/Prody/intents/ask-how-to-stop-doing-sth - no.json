@@ -1,0 +1,42 @@
+{
+  "id": "5ef503fc-a1fb-45a6-970e-c4550f724961",
+  "parentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - no",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-no",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "나는 딴 생각이 날 때 보통 운동으로 에너지를 소비하려고 했어. 그렇게 하고 나면 마음이 차분해져서 해야 할 일에 집중할 수 있게 됐거든. 한 번 해보지 않을래?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

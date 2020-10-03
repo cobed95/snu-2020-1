@@ -1,0 +1,35 @@
+{
+  "id": "ee830944-1c72-414b-ab31-ef65f0deef5d",
+  "name": "helplessness - no - where",
+  "auto": true,
+  "contexts": [
+    "helplessness-1-no-followup",
+    "helplessness-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helplessness-1.helplessness-1-no.helplessness-no-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "너가 지금 어디에 있는지는 모르지만,  사실 어디든지 마음먹기에 따라 훌륭한 산책로가 될 수 있어. 지금 있는 곳 주변을 한바퀴 돌아보는 것도 좋아."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dcfd3031-a557-4129-84f2-84fbe4c97db4",
+  "parentId": "4502a61f-7e55-42ec-8461-a0c8a0e0426c",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - which - no - yes",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-which-no-followup-2",
+    "ask-how-to-stop-doing-sth-which-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-custom.ask-how-to-stop-doing-sth-which-no.ask-how-to-stop-doing-sth-which-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

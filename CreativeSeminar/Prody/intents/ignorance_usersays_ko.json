@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ded1cd08-4fb7-43dc-a9b0-3909b9cedb87",
+    "data": [
+      {
+        "text": "난 잘 모르겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c05d4f9a-ecd3-4117-852f-d6dde4ca8dad",
+    "data": [
+      {
+        "text": "난 모르겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0472b013-1a53-4334-a52d-5c929090d748",
+    "data": [
+      {
+        "text": "모르겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

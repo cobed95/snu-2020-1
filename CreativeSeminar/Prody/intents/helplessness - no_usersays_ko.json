@@ -1,0 +1,295 @@
+[
+  {
+    "id": "6301f7c3-2c19-4a4f-8ff0-d5e5b7eadd7d",
+    "data": [
+      {
+        "text": "싫으면?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f13b8ad3-30cf-418f-85a9-a6bf3a1db259",
+    "data": [
+      {
+        "text": "지금",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 시작하기 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a671fd43-a78c-4e76-95c3-a60524cd9afd",
+    "data": [
+      {
+        "text": "싫어!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61a4fc52-9ef8-480d-b8f3-58066b0ac6eb",
+    "data": [
+      {
+        "text": "지금",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 시작하기 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb1dc308-449d-4aa8-972e-b5036e371577",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "34d660c1-1d60-4f0c-8e4d-6bb1258de25c",
+    "data": [
+      {
+        "text": "싫어...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d6ec764-1adf-4d73-96a9-da3480c84f31",
+    "data": [
+      {
+        "text": "싫은데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ed818b85-aca9-44b1-90df-f5a4356aa0e3",
+    "data": [
+      {
+        "text": "싫다고",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "46401a43-7174-4e3b-93a0-8be95328663b",
+    "data": [
+      {
+        "text": "시작하기 싫다니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e886ab49-03d2-421c-9de4-a5c04298b5b5",
+    "data": [
+      {
+        "text": "그게 다야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d55245c1-ad64-46a9-b21d-187705bb38a5",
+    "data": [
+      {
+        "text": "할 말이 그것 뿐이야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4eb18d7-48ad-4d4d-9d18-2a065702a110",
+    "data": [
+      {
+        "text": "말이 쉽지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4625e0b-31d7-4125-bf7b-2168b1f49011",
+    "data": [
+      {
+        "text": "말도 안되는 ",
+        "userDefined": false
+      },
+      {
+        "text": "소리",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 하지마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97bb3fe8-6e6c-414e-a6fd-4940496ef73e",
+    "data": [
+      {
+        "text": "말이 되는 ",
+        "userDefined": false
+      },
+      {
+        "text": "소리",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7e52dc6-6613-4241-a0ba-d139ca75e3db",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "bce6aa26-a255-4c24-87fb-84badbebb897",
+    "data": [
+      {
+        "text": "고맙지만 됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "40734dd9-19cd-4b29-afa4-3c27936e3c1f",
+    "data": [
+      {
+        "text": "그건 아니지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "79f9c2b1-2c79-411e-ae55-675d3fecd218",
+    "data": [
+      {
+        "text": "절대 아니야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "57faffc7-99a3-4c83-b76d-332889dea3fd",
+    "data": [
+      {
+        "text": "관심 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "b082c76d-3afe-4cd4-b0cd-26268c626b38",
+    "data": [
+      {
+        "text": "아닌 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "122ee6ce-35d8-4198-bd76-e76cb66f0142",
+    "data": [
+      {
+        "text": "하지 마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34f6ff05-61b5-4232-a190-1a8bb7eada56",
+    "data": [
+      {
+        "text": "내 생각은 달라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

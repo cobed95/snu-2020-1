@@ -1,0 +1,134 @@
+[
+  {
+    "id": "36016f90-01c4-46cb-b4e6-be3b2abc8a37",
+    "data": [
+      {
+        "text": "알겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dae9eabc-53c0-4747-8fc5-c819c98478a3",
+    "data": [
+      {
+        "text": "그럼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9785681f-959f-4f9d-9834-6414e54f08e5",
+    "data": [
+      {
+        "text": "확인",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "01b932c3-a79d-4e85-85cd-9b38712fd6d2",
+    "data": [
+      {
+        "text": "좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4d8154d1-bd1d-4742-bfbb-5788d39bc59a",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f77cd484-3e8b-4f68-aa25-57c52b4dc1b9",
+    "data": [
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c58b7039-8b0f-4072-8691-c8a3d411ed44",
+    "data": [
+      {
+        "text": "상관없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1439da5f-2cd8-494e-ab36-8440269148a3",
+    "data": [
+      {
+        "text": "바로 그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ef949f1b-6caf-495e-89d8-9bc8b5fb7de2",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3460e827-0087-43c2-98b5-740a8b41672a",
+    "data": [
+      {
+        "text": "동의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0be01501-a4d1-4765-8a99-381e73cd1413",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

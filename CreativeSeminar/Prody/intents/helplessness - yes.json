@@ -1,0 +1,36 @@
+{
+  "id": "a75ebbbb-e1f5-4a9c-a07b-c931e3def52a",
+  "parentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "rootParentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "name": "helplessness - yes",
+  "auto": true,
+  "contexts": [
+    "helplessness-1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helplessness-1.helplessness-1-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "잘 생각했어! 바로 할일을 시작하려 하는 넌 참 대단하다고 생각해. 하다가 문제가 생기면 다시 나를 찾아줘!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

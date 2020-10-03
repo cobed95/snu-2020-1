@@ -1,0 +1,51 @@
+[
+  {
+    "id": "43b5644c-84b5-4ac3-8b95-80a97cc0c9eb",
+    "data": [
+      {
+        "text": "ㄱㅅ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce95e3b2-10fe-4286-abe6-ae886dc7ee31",
+    "data": [
+      {
+        "text": "고맙다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "282d5aee-a8bd-408f-a991-74546efcb6b8",
+    "data": [
+      {
+        "text": "감사합니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b7d1c6a-ca2b-47a3-a7a9-3fc79c413217",
+    "data": [
+      {
+        "text": "고마워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

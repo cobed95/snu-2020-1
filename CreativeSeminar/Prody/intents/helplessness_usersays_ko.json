@@ -1,0 +1,402 @@
+[
+  {
+    "id": "5ad0a727-ceec-4dac-b73b-967a7d336c72",
+    "data": [
+      {
+        "text": "요즘 너무 우울한 기분",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 많이 들어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86b35082-0fa2-4e60-9ddb-576ef0537d86",
+    "data": [
+      {
+        "text": "아침",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": "에 일어나기가 너무 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f7c576-f7be-4d6f-988a-8d45e8f20053",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "하기 싫다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "99c9d8c0-3fa8-471b-b995-368c13dd3d39",
+    "data": [
+      {
+        "text": "우울해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ff0d933-ca45-450a-834e-15cd54d53732",
+    "data": [
+      {
+        "text": "우울하다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "911150be-29de-4d3d-8c9c-5b75a9b3716e",
+    "data": [
+      {
+        "text": "힘",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "안나",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4df19b9c-0f19-4d65-86e7-98bfc04d0d0f",
+    "data": [
+      {
+        "text": "일할 게 너무너무 많아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df4f5a79-31ac-4e2c-9052-3c058b6254c0",
+    "data": [
+      {
+        "text": "지친다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6a0c5a7-b71e-4e94-8f99-70949c040088",
+    "data": [
+      {
+        "text": "나 좀 ",
+        "userDefined": false
+      },
+      {
+        "text": "일",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "하라고 혼내줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9987c84-1fa3-4de6-95b1-66f45a347809",
+    "data": [
+      {
+        "text": "지겨워",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab52b678-7bb9-4800-aec1-fc92c163389e",
+    "data": [
+      {
+        "text": "계속 미루고있어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94a5d36a-85dd-4ada-8f3e-3378393e380d",
+    "data": [
+      {
+        "text": "쉬고 싶은데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8c699cc-8ff6-433c-bb64-f2486f9a2710",
+    "data": [
+      {
+        "text": "자고 해도 될까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f8fdf0f-cfdd-4f8d-840e-b8b4ccc5f02f",
+    "data": [
+      {
+        "text": "내일",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 해도 될까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25c3f545-7d9d-4962-be2f-aff9da0a42ea",
+    "data": [
+      {
+        "text": "아무것도 하기 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "0bc709ec-6995-4b63-b0e5-66d62d0eafbf",
+    "data": [
+      {
+        "text": "사람을 만나는게 귀찮아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cd0453a-803f-4f7d-ab15-a9f36b91d341",
+    "data": [
+      {
+        "text": "과제하기 싫어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71c328e9-654d-493b-8f45-814b95710dbe",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "하기 싫어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b8dc9b7-49f2-4150-81f2-1b43e94eda46",
+    "data": [
+      {
+        "text": "아무것도 하기 싫에",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4fd86d95-0133-4031-bf63-949f58b5dea5",
+    "data": [
+      {
+        "text": "나는 ",
+        "userDefined": false
+      },
+      {
+        "text": "게으름뱅이",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": false
+      },
+      {
+        "text": "인데 습관을 ",
+        "userDefined": false
+      },
+      {
+        "text": "고치고",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "싶어 도와줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bf67db2-6c59-4c8d-98b4-e85a70d30148",
+    "data": [
+      {
+        "text": "하기 싫다...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5f790c44-128b-4e25-b030-7e7815789850",
+    "data": [
+      {
+        "text": "아무것도 하기 싫다...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a871d3c4-17a2-4156-987d-1a3aea9da077",
+    "data": [
+      {
+        "text": "아무 것도 하기 싫다...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d2baefc9-2fc2-471f-b365-cf8977fee86d",
+    "data": [
+      {
+        "text": "아무것도 하기 싫다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "518c84ff-d888-4ffb-85bf-354c0bda80d6",
+    "data": [
+      {
+        "text": "과제를 해야하는데 너무 하기싫어서 발작일으킬것같아 싫어 지금 안하래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "00131a17-758e-44ab-ac03-5e746dda9036",
+    "data": [
+      {
+        "text": "하기 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52f87a48-63b6-44d6-8770-eca291899184",
+    "data": [
+      {
+        "text": "해야하는데 하기 싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

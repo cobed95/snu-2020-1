@@ -1,0 +1,34 @@
+{
+  "id": "aafe0778-ea7a-4226-b532-382e5ca6ff26",
+  "name": "ask-how-to-stop-doing-sth - yes",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "좋아. 그럼 운동을 하고 다시 할 일에 집중해보자!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

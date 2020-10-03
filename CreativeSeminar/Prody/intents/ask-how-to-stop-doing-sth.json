@@ -1,0 +1,54 @@
+{
+  "id": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "negative-things",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1a360100-e917-41f8-bea1-1fb48ffe7ecb",
+          "required": false,
+          "dataType": "@negative-things",
+          "name": "negative-things",
+          "value": "$negative-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "$negative-things 그만두고 싶다면 잠시 운동이라도 해보는게 어때?",
+            "집중이 잘 안된다면 잠시 운동이라도 해보는게 어때?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

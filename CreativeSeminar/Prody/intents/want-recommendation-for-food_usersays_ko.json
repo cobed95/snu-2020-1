@@ -1,0 +1,106 @@
+[
+  {
+    "id": "280ba8e8-e7db-456d-8613-018c6106d1e7",
+    "data": [
+      {
+        "text": "맛집",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2242b49-08d2-4c27-9c24-e205f9b43619",
+    "data": [
+      {
+        "text": "뭐 먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dff9d39-7672-4a11-856b-13e8719f749a",
+    "data": [
+      {
+        "text": "뭐먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cfe44ee-f2c4-437a-8747-eca90f2d5190",
+    "data": [
+      {
+        "text": "아침",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f77f85c-005c-4e5f-b6ca-ab7ab9c72cbf",
+    "data": [
+      {
+        "text": "점심",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2d2e373-a0a5-4371-8771-405565030335",
+    "data": [
+      {
+        "text": "저녁",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐 먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

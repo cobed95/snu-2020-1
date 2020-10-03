@@ -1,0 +1,9 @@
+{
+  "id": "ef67659d-deb2-41c2-bb44-3381c2fb849c",
+  "name": "neutral-things",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

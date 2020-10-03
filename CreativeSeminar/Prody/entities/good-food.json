@@ -1,0 +1,9 @@
+{
+  "id": "889e7e30-9bfc-47b4-b491-e57576a7f237",
+  "name": "good-food",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

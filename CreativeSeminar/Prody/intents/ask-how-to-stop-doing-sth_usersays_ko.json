@@ -1,0 +1,380 @@
+[
+  {
+    "id": "59b34d63-b786-4cd8-a380-fe6a16e32bd1",
+    "data": [
+      {
+        "text": "삼십분",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "째 놀고있어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdf2bddf-6683-4b04-ad3b-dd8b84b1ccc8",
+    "data": [
+      {
+        "text": "딴 짓",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 그만하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "ccdb0045-bd18-4c29-b3db-829e9f3be3a8",
+    "data": [
+      {
+        "text": "집중이 안돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1510ab2b-c472-4f08-83a1-23d3b2471c7d",
+    "data": [
+      {
+        "text": "딴짓",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 그만하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9b199fbf-62f2-4477-a4e0-f8e23a9c719f",
+    "data": [
+      {
+        "text": "딴짓",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 그만두고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "615b0056-8fdc-4114-8f4f-cd405fd9ad43",
+    "data": [
+      {
+        "text": "유튜브",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 좀 그만봐야겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa40322e-b63a-4ed4-aca8-e6bb3130b487",
+    "data": [
+      {
+        "text": "딴짓",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": "하는 시간을 줄이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "dc9bfb6f-2b2d-411d-b22d-73365a8c1d43",
+    "data": [
+      {
+        "text": "집중이 잘 안돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6757d07b-a648-43f8-ba55-bcf6e47b531a",
+    "data": [
+      {
+        "text": "유튜브",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 그만 보고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d280c42-ebdd-4b31-9593-fc2139329e79",
+    "data": [
+      {
+        "text": "딴짓",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 그만두고 싶ㅊ어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25f38e1e-5c0b-469e-983d-0a464ead7e9b",
+    "data": [
+      {
+        "text": "유투브",
+        "alias": "negative-things",
+        "meta": "@negative-things",
+        "userDefined": false
+      },
+      {
+        "text": " 줄이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc17384-efe8-47c0-b590-13a7a1090c46",
+    "data": [
+      {
+        "text": "줄이려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0572ca1-f6ad-4792-bba5-65b8e73166c3",
+    "data": [
+      {
+        "text": "줄이려면 어떻게 해야해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "383bb87d-053a-44bb-a9b8-fec69d5b1ad6",
+    "data": [
+      {
+        "text": "줄이려면 어떻게해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc8b6892-4317-443a-8753-1fa6761bcb11",
+    "data": [
+      {
+        "text": "줄이려면 어떻게 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da1ac4c8-61a5-49d8-b7c4-f2ea1f0835d0",
+    "data": [
+      {
+        "text": "줄이려면 어떻게 해야 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "657827bb-4e8c-4af1-b771-6a77c69e806c",
+    "data": [
+      {
+        "text": "그만두려면 어떻게 해야 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff70429b-8214-445a-8454-fab7f9a9cd9b",
+    "data": [
+      {
+        "text": "그만두려면 어떻게 해야 돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "052534ca-bdd0-4bc0-91b3-eec7038c201c",
+    "data": [
+      {
+        "text": "그만하려면 어떻게 해야 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d364b950-d6dd-4d24-9701-b7855c8c69fb",
+    "data": [
+      {
+        "text": "그만하려면 어떻게 해야 돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfc2e56f-2058-4cf7-a8a2-b2617d1a4214",
+    "data": [
+      {
+        "text": "그만하려면 어떻게 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "994e960c-e4a4-4f92-988b-0c9fa94cc0a6",
+    "data": [
+      {
+        "text": "그만하려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "737a48a0-2b8a-4a14-8c71-5698d6072b45",
+    "data": [
+      {
+        "text": "그만두려면 어떻게 해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28869814-1732-49cc-876f-67f02c3a7695",
+    "data": [
+      {
+        "text": "그만두려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb0cbd1a-0404-4993-a9a1-9e99e76209ba",
+    "data": [
+      {
+        "text": "그만두고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a0079a-5147-496c-9a63-684fe134904c",
+    "data": [
+      {
+        "text": "줄이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daeaaa96-5784-40c5-af6a-5a72839711b4",
+    "data": [
+      {
+        "text": "그만하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

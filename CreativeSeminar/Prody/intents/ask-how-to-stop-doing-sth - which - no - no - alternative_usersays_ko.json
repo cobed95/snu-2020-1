@@ -1,0 +1,44 @@
+[
+  {
+    "id": "19577cde-f22c-4118-9aee-17a0a78b263c",
+    "data": [
+      {
+        "text": "농구",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d9974e1d-291a-40b0-9d5d-2d53e860ea98",
+    "data": [
+      {
+        "text": "검도",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b909211-6841-452f-b783-987785e82915",
+    "data": [
+      {
+        "text": "축구",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

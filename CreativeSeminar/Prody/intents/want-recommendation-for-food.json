@@ -1,0 +1,85 @@
+{
+  "id": "b53ddb48-9f2b-4314-a0d8-bf3912874984",
+  "name": "want-recommendation-for-food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "answer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "79f34549-66d6-4302-88a0-740bd470fedc",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "40c91639-42d6-459b-8bb2-15f6b978ac43",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9fcce6e8-ab19-45e6-aa49-524d172eacce",
+          "required": false,
+          "dataType": "@bad-food",
+          "name": "bad-food",
+          "value": "$bad-food",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f3ae990b-5a17-4907-a6ab-9940911fdf08",
+          "required": false,
+          "dataType": "@good-food",
+          "name": "good-food",
+          "value": "$good-food",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "$bad-food보다 더 건강한 걸 먹는 게 좋을 것 같아.",
+            "$good-food는 좋은것 같아!",
+            "무엇이 생각나는지 얘기해줘."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

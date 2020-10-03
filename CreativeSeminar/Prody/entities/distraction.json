@@ -1,0 +1,9 @@
+{
+  "id": "acceb6e8-da7d-49e4-a7a9-515e6fa5573f",
+  "name": "distraction",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3982cf17-5547-4c01-a0ab-77569142658f",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eccc6145-4a7b-4b15-b0a4-e8a193e4b547",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

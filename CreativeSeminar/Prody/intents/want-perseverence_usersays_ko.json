@@ -1,0 +1,156 @@
+[
+  {
+    "id": "01017db2-2f2b-4f52-8a71-a6e9da140476",
+    "data": [
+      {
+        "text": "나는 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "하는 게 귀찮은데 어떻게 운동을 꾸준히 할수잇을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "af2758a6-445d-44b7-9da8-e0cfed91ee9c",
+    "data": [
+      {
+        "text": "나는 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "하는 게 귀찮은데 어떻게 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things1",
+        "userDefined": false
+      },
+      {
+        "text": "을 꾸준히 할수잇을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "1ae6ab5f-5638-4452-a603-d5acdbaf1e5c",
+    "data": [
+      {
+        "text": "나는 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "하는 게 귀찮은데 어떻게 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "alias": "positive-things1",
+        "meta": "@positive-things",
+        "userDefined": false
+      },
+      {
+        "text": "을 꾸준히 할수잇을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3164bc23-e6e6-4648-936e-7723eb58fc7c",
+    "data": [
+      {
+        "text": "습관 들이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9cf184e-c4f4-4202-b179-f23a0ef818e5",
+    "data": [
+      {
+        "text": "습관을 들이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfae2539-8cbf-4e48-a53f-dfe003aa4c2a",
+    "data": [
+      {
+        "text": "꾸준하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45922e8a-323c-40a2-a91a-f86523860670",
+    "data": [
+      {
+        "text": "꾸준히 할 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc9e24e3-5517-4ec5-ba09-35fa9eefd968",
+    "data": [
+      {
+        "text": "꾸준히 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

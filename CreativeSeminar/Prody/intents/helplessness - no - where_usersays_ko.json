@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3104f093-e6ce-4fe0-9507-39a4623894fc",
+    "data": [
+      {
+        "text": "산책 어디로 갈까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d765a99d-45b6-4385-a0f5-66e641a1e67b",
+    "data": [
+      {
+        "text": "산책 어디로 갈까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "f964b3d8-c3bc-4f5b-8105-d9f9a8a9ad92",
+  "parentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "rootParentId": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "name": "helplessness - no",
+  "auto": true,
+  "contexts": [
+    "helplessness-1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "helplessness-1.helplessness-1-no",
+      "affectedContexts": [
+        {
+          "name": "helplessness-1-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "helplessness-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "뭔가를 시작하는게 정말 힘든가보구나. 그래도 난 널 항상 응원해. 잠시 산책이라도 다녀오고 다시 해보자!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

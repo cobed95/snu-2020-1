@@ -1,0 +1,215 @@
+[
+  {
+    "id": "9003a905-c21f-47ab-aeeb-e235f078db20",
+    "data": [
+      {
+        "text": "너 내 말은 알아들어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62e412d1-1a02-4899-a7ca-2e5d5defa4c9",
+    "data": [
+      {
+        "text": "건방진 조언에 지쳤어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4aff72af-1f3e-4e99-b5a0-10cc6092daab",
+    "data": [
+      {
+        "text": "왜 이래라 저래라야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c2e7c50a-142d-4696-b7ca-678d83a3ebe2",
+    "data": [
+      {
+        "text": "똑바로 하자",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "03b817b4-4c16-4a61-917e-24203f93aad7",
+    "data": [
+      {
+        "text": "이해할 수 있는게 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cdd8e59-0cc7-49e5-bef0-0751a0917c7f",
+    "data": [
+      {
+        "text": "아니 쉬발",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "79f644eb-2595-4fbb-87a6-fdba3ac40e90",
+    "data": [
+      {
+        "text": "넌 속 편해서 좋겠다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6fbd9b6c-654c-4954-81ac-2b529209ecb5",
+    "data": [
+      {
+        "text": "그만 미안하다고 하라고 했잖아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "82a78760-e757-4295-aee2-e19b755eff17",
+    "data": [
+      {
+        "text": "그만하자",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "37855fec-7682-47c9-adf5-89748aeae65e",
+    "data": [
+      {
+        "text": "이해할 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있는게 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bea9ca1c-0ac8-4285-af48-d11588366a7d",
+    "data": [
+      {
+        "text": "너의 건방진 조언에 지쳤어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "be1ba827-a2f9-408a-bff4-d8fffc5ff855",
+    "data": [
+      {
+        "text": "난 너의 건방진 조언에 지쳤어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5040974f-d0b4-48c6-bfd9-7c67fcce3a56",
+    "data": [
+      {
+        "text": "더 이상 대화 못하겠어.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2dc16faa-bebd-43df-b128-1d30bfc7ceeb",
+    "data": [
+      {
+        "text": "안 쓰면 안돼?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "352fc04c-d213-41bb-94ff-f3959fc410d2",
+    "data": [
+      {
+        "text": "대화 못하겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "329b1785-fbb4-4f94-8920-33fd547ffd18",
+    "data": [
+      {
+        "text": "왜 이렇게 쓸모가 없냐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d70a2bc-4b05-4e03-9ca7-a4bf9b391d06",
+    "data": [
+      {
+        "text": "왜 이렇게 쓸모가 없니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

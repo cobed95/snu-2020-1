@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c598bdf1-e99f-47f6-b6b5-3b131261d300",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": "를 잘하고 시펑",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bdba882-f98a-4d68-9d7c-64e688cc448e",
+    "data": [
+      {
+        "text": "요즘 늦게일어나서 고민이야 아침에 일찍 일어날 수 있는 방법은 뭘까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "31b804bb-0fd5-40b7-939f-d0c2df2e71f9",
+    "data": [
+      {
+        "text": "방법은 뭘까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6621e725-a1f9-494b-8f92-757f4f9fb0e9",
+    "data": [
+      {
+        "text": "어떻게 연습하는데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "70fb8435-965d-4768-8ef5-0d3cf1bb01ca",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": " 잘하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "3771a76c-d045-4699-bbbc-62e64d2e52de",
+    "data": [
+      {
+        "text": "잘하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "80660e88-2aaf-4cc5-b84e-9224c344649d",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": "를 잘하기 위해 필요한 것은 뭘까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f26ede6b-283b-4a3d-9ebe-d86697702962",
+    "data": [
+      {
+        "text": "공부",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": " 잘하는 법 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "8bdb10ee-d1ae-4c4d-87dd-c1fb76230b25",
+    "data": [
+      {
+        "text": "면접",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": "을 잘보려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b9a4887-fb65-4378-ac56-558077563257",
+    "data": [
+      {
+        "text": "면접",
+        "alias": "positive-things",
+        "meta": "@positive-things",
+        "userDefined": true
+      },
+      {
+        "text": "을 잘 보려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "54ac7487-6e72-44b9-88e2-5400d697e900",
+    "data": [
+      {
+        "text": "어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b9e4a3d-05d6-4364-987b-66951141e80b",
+    "data": [
+      {
+        "text": "공부 이기고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c931e1c4-076d-4658-9540-3534657a26f3",
+    "data": [
+      {
+        "text": "잘보고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70cdbe70-b170-4a3b-8ca8-e30ea73fd59e",
+    "data": [
+      {
+        "text": "잘 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbe12f9d-b31a-43fd-8d1a-7cd11184571f",
+    "data": [
+      {
+        "text": "잘 보고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4016cce-5091-4ba4-a11e-2d09bfd8b149",
+    "data": [
+      {
+        "text": "이기고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a74a99c-9da9-4c7f-9130-e5c7db133687",
+    "data": [
+      {
+        "text": "하는 법 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35f74da1-846e-4e3f-90cd-4dfba238c592",
+    "data": [
+      {
+        "text": "하는 법 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7badf24c-83e5-4b0b-822c-42d00e060669",
+    "data": [
+      {
+        "text": "잘하기 위해 필요한 것은 뭘까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e22e8bb7-52d4-47aa-a1b5-fdfa770cac8c",
+    "data": [
+      {
+        "text": "잘 하려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88486ad8-e6c0-454a-9a8f-6171efbc4ddf",
+    "data": [
+      {
+        "text": "잘 보려면 어떻게 해야되냐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92801fb0-b227-43e1-a5f9-71fc46f122db",
+    "data": [
+      {
+        "text": "잘 보려면 어떻게 해야돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

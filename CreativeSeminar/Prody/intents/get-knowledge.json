@@ -1,0 +1,86 @@
+{
+  "id": "3d943ca7-ab7c-45cb-a288-6421a2612c11",
+  "name": "get-knowledge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "answer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3968aeb-d1e6-4ed1-b51e-4e156709a812",
+          "required": false,
+          "dataType": "@philosophical-religious",
+          "name": "philosophical-religious",
+          "value": "$philosophical-religious",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "65b83712-4c88-43c2-a05e-bd90a3a2e9b9",
+          "required": false,
+          "dataType": "@food",
+          "name": "food",
+          "value": "$food",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1b63159a-2633-4609-98a4-52979fd3c5a4",
+          "required": false,
+          "dataType": "@philosophical-religious",
+          "name": "philosophical",
+          "value": "$philosophical",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "002bf3e7-5b4f-4b62-b662-dfcf66f944d3",
+          "required": false,
+          "dataType": "@weather",
+          "name": "weather",
+          "value": "$weather",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "$philosophical-religious 에 대해선 나도 잘 모르겠어. 그것보단 생산적인 시간을 보내고 싶을 때 나를 찾아주길 바랄게!",
+            "$food 나도 좋아해! 그것보단 생산적인 시간을 보내고 싶을 때 나를 찾아주길 바랄게!",
+            "그렇게 생각하는 사람들도 있구나. 그것보단 생산적인 시간을 보내고 싶을 때 나를 찾아주길 바랄게!",
+            "$weather 일까? 잘 모르지만 산책하며 알아보는 것도 좋을 것 같아. 그것보단 생산적인 시간을 보내고 싶을 때 나를 찾아주길 바랄게!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

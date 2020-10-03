@@ -1,0 +1,54 @@
+{
+  "id": "694e283b-62ae-4ac8-a75c-9b34099aa991",
+  "name": "ask-how-to-do-sth-well",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "positive-things",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-do-sth-well-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9575131a-bfb7-4079-97f3-17d118dea103",
+          "required": false,
+          "dataType": "@positive-things",
+          "name": "positive-things",
+          "value": "$positive-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "$positive-things 잘하기 위해선 무엇보다 연습이 중요해. 지금부터 연습하는 것도 좋을 것 같아.",
+            "그걸 잘하는 사람들이 어떤 방식으로 그걸 하는지 알아보고, 따라해보는 것부터 시작해도 좋아."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

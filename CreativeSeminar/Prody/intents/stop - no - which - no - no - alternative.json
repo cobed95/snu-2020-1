@@ -1,0 +1,60 @@
+{
+  "id": "276afdb9-773e-408a-9309-917e3cdf62d5",
+  "parentId": "c5e2c0c9-b2ac-4539-9a7b-c136f1597f68",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "stop - no - which - no - no - alternative",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-no-which-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-no.ask-how-to-stop-doing-sth-no-custom.ask-how-to-stop-doing-sth-no-which-no.ask-how-to-stop-doing-sth-no-which-no-no.ask-how-to-stop-doing-sth-no-which-no-no-custom",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-no-which-no-no-alternative-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "stop-no-which-no-no-alternative-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8530b642-84d5-47af-ab25-8f72e84ea7a5",
+          "required": false,
+          "dataType": "@sports",
+          "name": "sports",
+          "value": "$sports",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "$sports 좋아하는구나. 그럼 $sports 하고 올래?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

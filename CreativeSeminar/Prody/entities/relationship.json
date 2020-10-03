@@ -1,0 +1,9 @@
+{
+  "id": "5688a147-46cc-432c-a22c-f6f2881009d6",
+  "name": "relationship",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

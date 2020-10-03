@@ -1,0 +1,315 @@
+[
+  {
+    "id": "81225828-e811-4467-a852-f0d4796352fc",
+    "data": [
+      {
+        "text": "밖에 ",
+        "userDefined": false
+      },
+      {
+        "text": "비",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": "오냐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cc01ff4-6dc8-4d09-a6dd-61330bd44b14",
+    "data": [
+      {
+        "text": "눈",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " 와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1322bff-3b9c-48c8-ac3f-1de3c901322b",
+    "data": [
+      {
+        "text": "밖에 ",
+        "userDefined": false
+      },
+      {
+        "text": "비",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": "와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09bbb7e-ed66-4d19-855f-0cddebdc6e94",
+    "data": [
+      {
+        "text": "사후세계는 존재할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "367cbe25-581c-47ee-b56d-daaf6cdb8f2b",
+    "data": [
+      {
+        "text": "피자",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": true
+      },
+      {
+        "text": " 뭘까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "23ea758e-ea3f-471d-a7cf-f80c91a30c82",
+    "data": [
+      {
+        "text": "사후세계 존재할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "522f0ad3-64ed-4f67-9d87-0271e4079623",
+    "data": [
+      {
+        "text": "사후세계는 존재할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a0a486-27b8-4889-9f1e-2312d1528674",
+    "data": [
+      {
+        "text": "사후세계는 존재하는걸까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f7d486c-02da-4bb4-b3ca-b7808cdf8e31",
+    "data": [
+      {
+        "text": "사후세계는 존재하는걸까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b994e24c-eff6-4b54-8b66-b854819a4815",
+    "data": [
+      {
+        "text": "하와이안 피자",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": "는 무슨 생각으로 먹는걸까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52d02adc-5835-4fcb-8d68-0691bf444a8b",
+    "data": [
+      {
+        "text": "바나나는 안 좋다고 하는 사람도 있던데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c860acf-7118-4ca1-adc4-6c9695b9c4e8",
+    "data": [
+      {
+        "text": "사후세계",
+        "alias": "philosophical",
+        "meta": "@philosophical-religious",
+        "userDefined": true
+      },
+      {
+        "text": "는 존재할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5396ee6-d72a-4a74-bd66-f2432406b4a1",
+    "data": [
+      {
+        "text": "사후세계",
+        "alias": "philosophical",
+        "meta": "@philosophical-religious",
+        "userDefined": true
+      },
+      {
+        "text": " 존재할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e20dd68e-b4e2-407d-bb63-be6d9866a649",
+    "data": [
+      {
+        "text": "사후세계",
+        "alias": "philosophical",
+        "meta": "@philosophical-religious",
+        "userDefined": true
+      },
+      {
+        "text": "는 존재할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44744b8e-7fd6-47e4-95bd-51d8cecbc6be",
+    "data": [
+      {
+        "text": "사후세계",
+        "alias": "philosophical",
+        "meta": "@philosophical-religious",
+        "userDefined": true
+      },
+      {
+        "text": "는 존재하는걸까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff9bd1a9-e5af-47a4-8504-5507598e1ce4",
+    "data": [
+      {
+        "text": "사후세계",
+        "alias": "philosophical",
+        "meta": "@philosophical-religious",
+        "userDefined": true
+      },
+      {
+        "text": "는 존재하는걸까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3528da92-c436-4bf2-9443-cd17c3508510",
+    "data": [
+      {
+        "text": "뭘까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71c65938-aacd-4f9b-bcee-94dba715fe8d",
+    "data": [
+      {
+        "text": "하는 사람도 있던데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec15afc8-7f09-4968-9c83-22a0d02634a3",
+    "data": [
+      {
+        "text": "뭐",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "가 있을까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e1ae327-0514-4105-8925-8526eb13e1ca",
+    "data": [
+      {
+        "text": "존재할까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

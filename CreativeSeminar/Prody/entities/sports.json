@@ -1,0 +1,9 @@
+{
+  "id": "847bbdff-0d96-44c9-822e-eb95e897e0ce",
+  "name": "sports",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "4502a61f-7e55-42ec-8461-a0c8a0e0426c",
+  "parentId": "ed07f8cc-9d25-45fc-9d22-eed3c813ce33",
+  "rootParentId": "f7e6ca41-6831-4480-b870-ee8578ea1e7a",
+  "name": "ask-how-to-stop-doing-sth - which - no",
+  "auto": true,
+  "contexts": [
+    "ask-how-to-stop-doing-sth-no-followup",
+    "ask-how-to-stop-doing-sth-which-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ask-how-to-stop-doing-sth.ask-how-to-stop-doing-sth-custom.ask-how-to-stop-doing-sth-which-no",
+      "affectedContexts": [
+        {
+          "name": "ask-how-to-stop-doing-sth-which-no-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ask-how-to-stop-doing-sth-which-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "그렇다면 자전거 타기는 어때? 나는 자전거를 탈 때 속이 후련해져서 일에 집중하는데 도움이 되는 것 같아."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

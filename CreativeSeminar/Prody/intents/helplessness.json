@@ -1,0 +1,92 @@
+{
+  "id": "11c0d086-3c84-4ea8-b2b5-c26955e1f1cc",
+  "name": "helplessness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "answer",
+      "affectedContexts": [
+        {
+          "name": "helplessness-1-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "helplessness-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94a0701a-428e-4a3a-b0f6-58d58a4816fe",
+          "required": false,
+          "dataType": "@positive-things",
+          "name": "positive-things",
+          "value": "$positive-things",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d23d6217-d788-469b-8b24-0cc056604f41",
+          "required": false,
+          "dataType": "@sys.person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3306d545-c018-4b39-93b1-9cbd7e9609d8",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "043c3604-57e3-4846-8cae-362e01519102",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "해야한다면 빨리 하는 편이 좋아. 지금 시작하자."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
